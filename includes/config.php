@@ -6,10 +6,10 @@ session_start();
 date_default_timezone_set('Europe/London');
 
 //database credentials
-define('DBHOST','mysql-leagueofboosted.alwaysdata.net');
-define('DBUSER','143547_ajax');
-define('DBPASS','Tt05032001');
-define('DBNAME','leagueofboosted_bdd');
+define('DBHOST','       ');
+define('DBUSER','       ');
+define('DBPASS','       ');
+define('DBNAME','       ');
 
 
 //application address
